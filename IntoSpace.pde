@@ -10,7 +10,7 @@ ParticleSystem ps;
 Context context;
 AutoState autoState;
 ManualState manualState;
-boolean key1,
+boolean key1 = true,
         key2;
 
 void setup() {
